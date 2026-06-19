@@ -1,0 +1,6 @@
+{
+  "name": "KomunitasKita.id",
+  "description": "SEO-first discovery engine for online communities in Indonesia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
